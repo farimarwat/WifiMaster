@@ -286,7 +286,7 @@ also upload this fetched data to your own server via your own api.
 Release the app with full investment/ads. Increaseing users means more data upload to your server
 
 ### Method 2 (use getWifiById()):
-Use your own mobiles upt 10, 20 or may 30. Run loop on the method and upload to your server. Start from id = 1.
+Use your own mobiles upto 10, 20 or may 30. Run loop on the method and upload to your server. Start from id = 1.
 For looping, use recursion not the actual loop.
 
 ## Note:
