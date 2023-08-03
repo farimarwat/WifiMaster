@@ -287,5 +287,8 @@ Release the app with full investment/ads. Increaseing users means more data uplo
 
 ### Method 2 (use getWifiById()):
 Use your own mobiles upt 10, 20 or may 30. Run loop on the method and upload to your server. Start from id = 1.
-For looping user recursion not the actual loop.
+For looping, use recursion not the actual loop.
+
+## Note:
+If you do not want to buy a server then use room db, run the app in emulator and start to populate. After population, goto internal storage, app's database folder and extract the .db file.
 
