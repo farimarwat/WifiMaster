@@ -16,7 +16,7 @@ implementation 'io.github.farimarwat:wifimaster:1.0'
 val wm = WifiMaster()
 ```
 ### Get Wifi by Id
-The Id is row id in database.It can not start from 1 to unlimited(in millions).
+The Id is row id in database.It can start from 1 to unlimited(in millions).
 In case, if not data found regarding this id, then response mage some thing like this but not the exact = "No Hotspot found"
 ```
 //get by id
