@@ -7,7 +7,7 @@ Now download all the records and upload to your own server for maintaince. There
 
 ## API implementation
 ```
-implementation 'io.github.farimarwat:wifimaster:1.0'
+implementation 'io.github.farimarwat:wifimaster:1.1'
 ```
 
 ## Usage
